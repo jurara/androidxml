@@ -1,0 +1,19 @@
+#Mon Nov 06 21:21:07 MST 2017
+renamed.5=classes2.dex
+renamed.4=classes5.dex
+renamed.3=classes6.dex
+renamed.2=classes3.dex
+renamed.1=classes4.dex
+renamed.0=classes.dex
+base.5=C\:\\Users\\jurara\\AndroidStudioProjects\\AnimateXML\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_5618a1f8a28f78c7664f8c76df693eb514ccc132
+base.4=C\:\\Users\\jurara\\AndroidStudioProjects\\AnimateXML\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.3.0_b50b916459285717f073edf1f5118e6f7056f5fc
+base.3=C\:\\Users\\jurara\\AndroidStudioProjects\\AnimateXML\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.3.0_f5f0e345f183fd0dfc00956b1b0783e396319f35
+base.2=C\:\\Users\\jurara\\AndroidStudioProjects\\AnimateXML\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_6c1c29c6cf9f71c0dba67dced67e32429c1ddab1
+base.1=C\:\\Users\\jurara\\AndroidStudioProjects\\AnimateXML\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_f7173df2381c8d6a9c7981425585e50487cdcbba
+base.0=C\:\\Users\\jurara\\AndroidStudioProjects\\AnimateXML\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_1c6922c3b83889fadd3e0fa6b65f04c7d86f5e36
+file.5=C\:\\Users\\jurara\\AndroidStudioProjects\\AnimateXML\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_5618a1f8a28f78c7664f8c76df693eb514ccc132\\classes.dex
+file.4=C\:\\Users\\jurara\\AndroidStudioProjects\\AnimateXML\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.3.0_b50b916459285717f073edf1f5118e6f7056f5fc\\classes.dex
+file.3=C\:\\Users\\jurara\\AndroidStudioProjects\\AnimateXML\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.3.0_f5f0e345f183fd0dfc00956b1b0783e396319f35\\classes.dex
+file.2=C\:\\Users\\jurara\\AndroidStudioProjects\\AnimateXML\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_6c1c29c6cf9f71c0dba67dced67e32429c1ddab1\\classes.dex
+file.1=C\:\\Users\\jurara\\AndroidStudioProjects\\AnimateXML\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_f7173df2381c8d6a9c7981425585e50487cdcbba\\classes.dex
+file.0=C\:\\Users\\jurara\\AndroidStudioProjects\\AnimateXML\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_1c6922c3b83889fadd3e0fa6b65f04c7d86f5e36\\classes.dex
